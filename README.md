@@ -1,1 +1,1 @@
-# Covid-19-Global-Tracker
+# Covid-19 Global Tracker
